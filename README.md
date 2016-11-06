@@ -6,5 +6,5 @@
 
 这里直接用了 python 的 selenium 的 webdriver，通过 chrome 获取到 js 加载后的页面代码，之后提取信息就很简单了，之前一直习惯用正则来提取，这次用了 webdriver 的接口，更方便了 -_-|||，提取信息以后输出到了 markdown 文件中，下面放一张结果图，具体代码就看 taobao.py 吧
 
-![img](./nowcoder/taobao.png)
+![img](./newcoder/taobao.png)
 
